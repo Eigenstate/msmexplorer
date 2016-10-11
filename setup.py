@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 MSMExplorer: Visualizations for statistical models of biomolecular dynamics
 """
